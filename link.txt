@@ -1,0 +1,37 @@
+ahmi2.newbook.link.instance.8c705b85-537d-4ca4-a5d8-c50e9a7b954a
+[id : cvx-p-p3-bq-c1-b5-l2-r15.ec2.lbi.network_jrp16, nsm region: kup, uuid: 6443e0e7-86f7-4259-ae7c-174dd6f091f4.]
+[id : log-j-2-es-c1-b11-l2-r15.ec2.lbi.network_jrp8, nsm region: kup, uuid: 61a388b9-9db4-4719-9dea-b9f2a61a41d5.]
+
+ahmi2.newbook.link.instance.bbc0cbd5-dd83-4fb1-836c-d9fe002aba82
+[id : log-j-2-es-c1-b11-l2-r16.ec2.lbi.network_jrp2, nsm region: kup, uuid: 3f0004d2-9169-44a3-a2d7-749876c6d539.]
+[id : cvx-p-p3-bq-c1-b5-l2-r16.ec2.lbi.network_jrp4, nsm region: kup, uuid: 678c53de-cb76-4548-9917-426e5f43de72.]
+
+ahmi2.newbook.link.instance.e06365d9-eb5d-4308-b277-664e6fa537fb
+[id : cvx-p-p3-bq-c1-b5-l2-r16.ec2.lbi.network_jrp2, nsm region: kup, uuid: 488cafd3-60e0-4420-a4df-a33e24fe623d.]
+[id : log-j-2-es-c1-b11-l2-r16.ec2.lbi.network_jrp2, nsm region: kup, uuid: 3f0004d2-9169-44a3-a2d7-749876c6d539.]
+
+ahmi2.newbook.link.instance.26a1e455-da4e-488a-ba5e-ec1cf896a02a
+[id : log-j-2-es-c1-b11-l2-r16.ec2.lbi.network_jrp14, nsm region: kup, uuid: 04b856ea-74e3-4598-8dde-26c9df405df3.]
+[id : cvx-p-p3-bq-c1-b5-l2-r16.ec2.lbi.network_jrp14, nsm region: kup, uuid: 678c53de-cb76-4548-9917-426e5f43de72.]
+
+ahmi2.newbook.link.instance.b8fe4746-5513-4979-812d-e4c2640be443
+[id : cvx-p-p3-bq-c1-b5-l2-r16.ec2.lbi.network_jrp8, nsm region: kup, uuid: 0bfa2e2f-2e7d-428e-9ba3-80815a57765e.]
+[id : log-j-2-es-c1-b11-l2-r16.ec2.lbi.network_jrp4, nsm region: kup, uuid: 04b856ea-74e3-4598-8dde-26c9df405df3.]
+
+ahmi2.newbook.link.instance.13522bbd-414f-4aea-9e89-3a7841e19c19
+[id : log-j-2-es-c1-b11-l2-r16.ec2.lbi.network_jrp6, nsm region: kup, uuid: d84986d8-d5ee-4e36-945e-587ab7cc46d9.]
+[id : cvx-p-p3-bq-c1-b5-l2-r16.ec2.lbi.network_jrp12, nsm region: kup, uuid: 720ae25b-a57d-4be7-8cf3-cb15ebd3582a.]
+
+ahmi2.newbook.link.instance.6c1eaf5b-9808-48a9-8b4f-431db0d009bb
+[id : log-j-2-es-c1-b11-l2-r16.ec2.lbi.network_jrp6, nsm region: kup, uuid: d84986d8-d5ee-4e36-945e-587ab7cc46d9.]
+[id : cvx-p-p3-bq-c1-b5-l2-r16.ec2.lbi.network_jrp6, nsm region: kup, uuid: 19eed5e0-f1a5-4ee6-8d2a-d9c8857b1781.]
+
+ahmi2.newbook.link.instance.1da36bda-3e91-498f-82dc-0fa005b739a3
+[id : log-j-2-es-c1-b11-l2-r16.ec2.lbi.network_jrp8, nsm region: kup, uuid: 4c6541c4-c163-43c8-9f24-ab4576221726.]
+[id : cvx-p-p3-bq-c1-b5-l2-r16.ec2.lbi.network_jrp16, nsm region: kup, uuid: 768b55d5-8a6c-4fc4-8efb-b3f4ea0a86db.]
+
+ahmi2.newbook.link.instance.b746ac3c-4270-4c20-92bc-677e0b61f218
+[id : cvx-p-p3-bq-c1-b5-l2-r16.ec2.lbi.network_jrp8, nsm region: kup, uuid: 0bfa2e2f-2e7d-428e-9ba3-80815a57765e.]
+[id : log-j-2-es-c1-b11-l2-r16.ec2.lbi.network_jrp8, nsm region: kup, uuid: 4c6541c4-c163-43c8-9f24-ab4576221726.]
+
+
